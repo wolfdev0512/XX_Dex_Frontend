@@ -1,7 +1,7 @@
 <template>
   <div class="w-screen bg-black min-h-screen py-[30px] px-[20px]">
     <div
-      class="relative w-full grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 desktop:grid-cols-4 gap-[30px] border-1"
+      class="relative w-full grid grid-cols-1 lg:grid-cols-2 2xl:grid-cols-3 desktop:grid-cols-4 border-1"
     >
       <div class="absolute top-0 left-0">
         <img :src="logoImage" class="w-[50px] border-1" />
